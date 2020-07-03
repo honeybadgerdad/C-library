@@ -1,4 +1,4 @@
-#include <unistd.h>
+#include <string.h>
 int ft_strlen(char *str1)
 {
     int i;
