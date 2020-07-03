@@ -1,8 +1,6 @@
 #include <unistd.h>
 #include <string.h>
 #include <stdlib.h>
-#include <stdio.h>
-/*int ft_strlen(char *str1);*/
 
 char *ft_strcpy(char *dest,char *src)
 {
